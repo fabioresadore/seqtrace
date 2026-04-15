@@ -1,0 +1,16 @@
+# VIM swap files.
+.*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+build/
+*.so
+
+# Files related to the SeqTrace website.
+Gemfile.lock
+_site/
+
